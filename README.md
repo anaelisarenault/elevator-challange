@@ -10,6 +10,12 @@ In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars,
   destiny as fast as possible;
   - The distance between the floors is equal: 2 meters each floor;
   - The velocity of the elevator when in movement is 10 kilometers per hour (10km/h);
+  - The input of the program must be: 
+  ```
+  Current floor: number of current floor
+  Final Floor: number of the floor you want to get to
+  Button position: up or down
+  ```
   - The output of the program must be: 
   ```
      Fastest elevator: name of elevator
@@ -28,4 +34,4 @@ In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars,
   ```
   2. I´m at the 23th floor and I want to go to de 2nd floor. 2 Elevators are moving. I press the button (down)
   to get the elevator. 
-  Output code: 
+  <br>Output code: 
