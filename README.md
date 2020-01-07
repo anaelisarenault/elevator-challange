@@ -21,7 +21,7 @@ In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars,
   1. I'm at the 6th floor and I want to go to de floor 0. None of the elevators are moving at the moment.
   Saturn is on the floor 0, Earth is on 10th floor and Mars is on the floor 0.  
   I press the button (down) do get the elevator.
-  Output code: 
+  <br> Output code: 
   ```
   Fastest elevator: Saturn
   Time elapsed: 3000
