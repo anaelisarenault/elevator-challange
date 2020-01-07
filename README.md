@@ -1,5 +1,5 @@
 # elevator-challange
-Repository of a coding challenge devloped by me.
+Repository of a coding challenge developed by me.
 
 ## The Problem
 In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars, design an elevator system that uses the according rules:
