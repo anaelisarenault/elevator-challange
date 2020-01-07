@@ -9,11 +9,10 @@ In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars,
   - The objective of this system it´s do always deliver the fasted elevator and make the user get to it´s
   destiny as fast as possible;
   - The distance between the floors is equal - 2 meters each floor;
-  - The velocity of the elevator in movement is 10 kilometers per hour (10km/h). 
-
-  The output of the program must be: 
-  Fastest elevator: name of elevator
-  Time elapsed: time elapsed in milliseconds
+  - The velocity of the elevator in movement is 10 kilometers per hour (10km/h);
+  - The output of the program must be: 
+     Fastest elevator: name of elevator
+     Time elapsed: time elapsed in milliseconds
 
   ## Simulations: 
 
