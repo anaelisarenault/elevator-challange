@@ -1,4 +1,4 @@
-# elevator-challange
+# elevator-challenge
 Repository of a coding challenge developed by me.
 
 ## The Problem
