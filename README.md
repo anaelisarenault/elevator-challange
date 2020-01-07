@@ -11,8 +11,10 @@ In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars,
   - The distance between the floors is equal - 2 meters each floor;
   - The velocity of the elevator in movement is 10 kilometers per hour (10km/h);
   - The output of the program must be: 
-     Fastest elevator: name of elevator
+  ```
+     Fastest elevator: name of elevator<br/>
      Time elapsed: time elapsed in milliseconds
+  ```
 
   ## Simulations: 
 
@@ -20,9 +22,10 @@ In a bulding with 23 floors and 3 elevators, denominated Saturn, Earth and Mars,
   Saturn is on the floor 0, Earth is on 10th floor and Mars is on the floor 0.  
   I press the button (down) do get the elevator.
   Output code: 
-  Fastest elevator: Saturn
+  ```
+  Fastest elevator: Saturn<br/>
   Time elapsed: 3000
-
+  ```
   2. I´m at the 23th floor and I want to go to de 2nd floor. 2 Elevators are moving. I press the button (down)
   to get the elevator. 
   Output code: 
